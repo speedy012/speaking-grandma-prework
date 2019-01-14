@@ -12,4 +12,6 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-if I love you
+if "I love you grandma".upcase 
+  print "I love you too pumpkin".upcase
+end
